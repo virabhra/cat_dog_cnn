@@ -11,3 +11,8 @@ matplotlib
 pandas
 flask
 keras
+uvloop
+httptools
+fastapi
+uvicorn
+gunicorn
